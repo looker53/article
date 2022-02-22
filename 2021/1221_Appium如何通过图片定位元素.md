@@ -33,6 +33,16 @@ npm i opencv4nodejs
 
 
 
+## 运行 appium
+
+```
+appium --use-plugins images
+```
+
+
+
+
+
 https://www.ruiqima.com/zh/posts/appiumposts/install-opencv4nodejs/
 
 

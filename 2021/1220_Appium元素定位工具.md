@@ -1,4 +1,4 @@
-# 5 个 UI 自动化测试辅助定位工具，你用过几个？
+# 5 个 APP 自动化测试辅助定位工具，你用过几个？
 
 UI 自动化测试时，先要定位到需要操作的元素，然后才能执行指令。 在网页端可以非常方便的通过 devtools 工具（也就是经常说的 F12) 获取和编写元素定位表达式。
 
@@ -80,3 +80,9 @@ weditor 是在 atx 生态下的一个小工具，目前由阿里巴巴维护，�
 这是 UC 浏览器开发的网页调试工具，作用和 chrome inspect 一样，主要定位 app 中的网页元素。 打开官网 https://plus.ucweb.com/download/ 完成下载。
 
 ![image-20211221151938003](https://yuztuchuang.oss-cn-beijing.aliyuncs.com/img/image-20211221151938003.png)
+
+
+
+加我好友，一起讨论：
+
+![image-20211224204259254](https://yuztuchuang.oss-cn-beijing.aliyuncs.com/img/image-20211224204259254.png)
